@@ -1,16 +1,50 @@
-### Hi there 👋
+![BannerName](https://github.com/mr-zwets/mr-zwets/assets/53938059/90099122-064b-4fb3-ada0-1ff8a5471bf8)
 
-<!--
-**mr-zwets/mr-zwets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate BitcoinCash developer
 
-Here are some ideas to get you started:
+<details>
+<summary>
+  Here's a list of stuff I made for Bitcoin Cash 💚
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main Projects
+
+- 🌱 [Cashonize.com](https://cashonize.com/) - My Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
+- 🧑🏼‍🚀 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language for smart contracts on Bitcoin Cash
+
+### Explore the Ecosystem
+
+- 🧑🏼‍🚀 [Tokenaut.cash](https://tokenaut.cash/) - Website showcasing stats about the CashTokens and DeFi ecosystem on Bitcoin Cash
+- ✅ [BestBchWallets.com](https://www.bestbchwallets.com/) - Website with info about Bitcoin Cash Wallets
+
+### BitcoinCash Web Tools
+
+- 🎪 [CashScript Playground](https://playground.cashscript.org/) - Online Playground for CashScript contracts
+- 🔎 [TokenExplorer.cash](https://tokenexplorer.cash/) - Website to find details about a specific CashToken by TokenId
+- 📜 [BCMR Generator](https://bcmr-generator.netlify.app/) - Web form to generate BCMR metadata file for tokens
+
+### BitcoinCash Developer Tools
+
+- 🪂 [CashTokens Airdrop Tool](https://github.com/mr-zwets/airdrop-tool) - A Javascript program to airdrop fungible tokens to NFT holders
+- 🔐 [AuthUpdate program](https://github.com/mr-zwets/AuthUpdate) - A Javascript program to update your BCMR metadata on-chain
+
+### Open-source NFT Project
+
+- 🥷 [Ninjas.cash](https://github.com/cashninjas/ninjas.cash) - Cash-Ninja website including WalletConnect and minting logic
+- 🔨 [Minting Contract](https://github.com/cashninjas/minting-contract) - CashScript Minting contract used for the Cash-Ninjas mint
+- 🎨 [shinobi-art-engine](https://github.com/cashninjas/shinobi-art-engine) - Fork of HashLips Art Engine with BCMR and AI integrations
+- 🌎 [cashninjas-api-server](https://github.com/cashninjas/cashninjas-api-server) - Simple API server used for the Cash-Ninjas mint
+- 🌉 [reapers-bridge](https://github.com/cashninjas/reapers-bridge) - One-way bridge for NFTs (ERC721) from SmartBCH (EVM) to CashTokens
+- 💀 [Reapers.cash](https://reapers.cash/) - Website for the Reapers NFT Project
+
+### Tutorials
+
+- 🎓 [Tutorial BCH App](https://github.com/mr-zwets/tutorial-bch-app) - the Bch-app from the Bitcoin Cash coding tutorial series on Youtube.
+
+### Proof-of-Concepts
+
+- 💡 [spec upgraded-SHA-gate](https://github.com/mr-zwets/upgraded-SHA-gate) - Specification for an upgraded SHA-gate contract
+- ⚙️ [demo upgraded-SHA-gate](https://github.com/mr-zwets/sha-gate-website) - Demo for upgraded SHA-gate contract
+- 🧠 [p2sh assurance contract](https://github.com/mr-zwets/p2shAssuranceContract) - Specification for an improved method for Bitcoin Cash crowdfunding
+
+</details>
