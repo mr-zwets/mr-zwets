@@ -10,7 +10,7 @@ Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate BitcoinCash developer
 ### Main Projects
 
 - 🌱 [Cashonize.com](https://cashonize.com/) - My Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
-- 🧑🏼‍🚀 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language for smart contracts on Bitcoin Cash
+- 💻 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language for smart contracts on Bitcoin Cash
 
 ### Explore the Ecosystem
 
@@ -39,7 +39,7 @@ Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate BitcoinCash developer
 
 ### Tutorials
 
-- 🎓 [Tutorial BCH App](https://github.com/mr-zwets/tutorial-bch-app) - the Bch-app from the Bitcoin Cash coding tutorial series on Youtube.
+- 🎓 [Tutorial BCH App](https://github.com/mr-zwets/tutorial-bch-app) - Tutorial Bitcoin Cash web app from my BCH coding tutorial series on Youtube.
 
 ### Proof-of-Concepts
 
