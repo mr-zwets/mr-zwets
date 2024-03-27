@@ -48,3 +48,30 @@ Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate BitcoinCash developer
 - 🧠 [p2sh assurance contract](https://github.com/mr-zwets/p2shAssuranceContract) - Specification for an improved method for Bitcoin Cash crowdfunding
 
 </details>
+
+<details>
+<summary>
+  ...And here's my tech stack
+</summary>
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+
+### Front-end
+
+[![Front-end](https://skillicons.dev/icons?i=vue,react,nextjs,html,css)](https://skillicons.dev)
+
+### Back-end
+
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://skillicons.dev)
+
+### Other
+
+[![Other](https://skillicons.dev/icons?i=netlify,git,vite,vscode,androidstudio)](https://skillicons.dev)
+
+### Planning to Learn
+
+[![Learning](https://skillicons.dev/icons?i=nuxtjs,supabase,tailwind)](https://skillicons.dev)
+
+</details>
