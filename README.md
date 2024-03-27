@@ -56,22 +56,28 @@ Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate BitcoinCash developer
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=js,ts)
 
 ### Front-end
 
-[![Front-end](https://skillicons.dev/icons?i=vue,react,nextjs,html,css)](https://skillicons.dev)
+![Front-end](https://skillicons.dev/icons?i=vue,react,nextjs,html,css)
 
 ### Back-end
 
-[![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://skillicons.dev)
+![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres)
 
-### Other
+### Tools
 
-[![Other](https://skillicons.dev/icons?i=netlify,git,vite,vscode,androidstudio)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=netlify,git,vite,vscode,androidstudio)
 
-### Planning to Learn
+### Have Used
 
-[![Learning](https://skillicons.dev/icons?i=nuxtjs,supabase,tailwind)](https://skillicons.dev)
+![Used](https://skillicons.dev/icons?i=graphql,docker,python,linux,postman)
+
+<hr/>
+
+### Planning to Use
+
+![Learning](https://skillicons.dev/icons?i=nuxtjs,supabase,tailwind)
 
 </details>
