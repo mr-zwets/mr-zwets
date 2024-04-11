@@ -1,6 +1,7 @@
 ![BannerName](https://github.com/mr-zwets/mr-zwets/assets/53938059/90099122-064b-4fb3-ada0-1ff8a5471bf8)
 
-Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate BitcoinCash developer
+Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate Bitcoin Cash developer.
+Been in crypto since summer of '17, working on it full time since '22.
 
 <details>
 <summary>
