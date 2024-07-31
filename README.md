@@ -70,10 +70,10 @@ My main projects are Cashonize and CashScript!
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=netlify,git,npm,vscode,vite,androidstudio,powershell)
+![Tools](https://skillicons.dev/icons?i=netlify,git,npm,vscode,vite,androidstudio,powershell,postman)
 
 ### Have Used
 
-![Used](https://skillicons.dev/icons?i=graphql,docker,python,linux,postman,ipfs,electron)
+![Used](https://skillicons.dev/icons?i=graphql,docker,python,linux,ipfs,electron,pinia,jest)
 
 </details>
