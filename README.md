@@ -54,6 +54,8 @@ My main projects are Cashonize and CashScript!
 
 &nbsp;&nbsp; 🎓 [Tutorial BCH App](https://github.com/mr-zwets/tutorial-bch-app) - Tutorial Bitcoin Cash web app from my BCH coding tutorial series on Youtube.
 
+&nbsp;&nbsp; 🪄 [ChainGraph TADA]([https://github.com/mr-zwets/tutorial-bch-app](https://github.com/mr-zwets/chaingraph-tada)) - ChainGraphs + Gql-tada example for a fully typed developer experience
+
 ### Proof-of-Concepts
 
 &nbsp;&nbsp; 💡 [spec upgraded-SHA-gate](https://github.com/mr-zwets/upgraded-SHA-gate) - Specification for an upgraded SHA-gate contract
@@ -61,6 +63,8 @@ My main projects are Cashonize and CashScript!
 &nbsp;&nbsp; ⚙️ [demo upgraded-SHA-gate](https://github.com/mr-zwets/sha-gate-website) - Demo for upgraded SHA-gate contract
 
 &nbsp;&nbsp; 🧠 [p2sh assurance contract](https://github.com/mr-zwets/p2shAssuranceContract) - Specification for an improved method for Bitcoin Cash crowdfunding
+
+&nbsp;&nbsp; ⛩️ [bridge portal]([https://github.com/mr-zwets/p2shAssuranceContract](https://github.com/mr-zwets/bridgeportal)) - Bridge portal front-end for bridging SBCH NFTs to CashTokens 
 
 </details>
 
