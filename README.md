@@ -93,13 +93,13 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 ### Platforms
 
-![Tools](https://skillicons.dev/icons?i=vite,tauri,electron,androidstudio)
+![Platforms](https://skillicons.dev/icons?i=vite,tauri,electron,androidstudio)
 
 ### DevOps
 ![DevOps](https://skillicons.dev/icons?i=git,github,netlify,linux)
 
 ### Other Technologies 
 
-![Tools](https://skillicons.dev/icons?i=postman,jest,graphql,ipfs,npm,yarn)
+![Technologies](https://skillicons.dev/icons?i=postman,jest,graphql,ipfs,npm,yarn)
 
 </details>
