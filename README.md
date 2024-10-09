@@ -2,19 +2,19 @@
 
 Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate Bitcoin Cash developer. <br/>
 Been in crypto since summer of '17, working on it full time since '22. <br/>
-My main projects are Cashonize and CashScript!
+
+
+### Main Projects
+
+
+&nbsp;&nbsp; 🌱 [Cashonize.com](https://cashonize.com/) - My cross-platform Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
+
+&nbsp;&nbsp; 💻 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language & toolkit for developing smart contracts on BCH
 
 <details>
 <summary>
   Here's a full list of stuff I made for Bitcoin Cash 💚
 </summary>
-
-### Main Projects
-
-
-&nbsp;&nbsp; 🌱 [Cashonize.com](https://cashonize.com/) - My Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
-
-&nbsp;&nbsp; 💻 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language for smart contracts on Bitcoin Cash
 
 ### Explore the Ecosystem
 
@@ -42,11 +42,11 @@ My main projects are Cashonize and CashScript!
 
 &nbsp;&nbsp; 🔨 [Minting Contract](https://github.com/cashninjas/minting-contract) - CashScript Minting contract used for the Cash-Ninjas mint
 
-&nbsp;&nbsp; 🎨 [shinobi-art-engine](https://github.com/cashninjas/shinobi-art-engine) - Fork of HashLips Art Engine with BCMR and AI integrations
+&nbsp;&nbsp; 🎨 [Shinobi-art-engine](https://github.com/cashninjas/shinobi-art-engine) - Fork of HashLips Art Engine with BCMR and AI integrations
 
-&nbsp;&nbsp; 🌎 [cashninjas-api-server](https://github.com/cashninjas/cashninjas-api-server) - Simple API server used for the Cash-Ninjas mint
+&nbsp;&nbsp; 🌎 [Cashninjas-api-server](https://github.com/cashninjas/cashninjas-api-server) - Simple API server used for the Cash-Ninjas mint
 
-&nbsp;&nbsp; 🌉 [reapers-bridge](https://github.com/cashninjas/reapers-bridge) - One-way bridge for NFTs (ERC721) from SmartBCH (EVM) to CashTokens
+&nbsp;&nbsp; 🌉 [Reapers-bridge](https://github.com/cashninjas/reapers-bridge) - One-way bridge for NFTs (ERC721) from SmartBCH (EVM) to CashTokens
 
 &nbsp;&nbsp; 💀 [Reapers.cash](https://reapers.cash/) - Website for the Reapers NFT Project
 
@@ -58,13 +58,19 @@ My main projects are Cashonize and CashScript!
 
 ### Proof-of-Concepts
 
-&nbsp;&nbsp; 💡 [spec upgraded-SHA-gate](https://github.com/mr-zwets/upgraded-SHA-gate) - Specification for an upgraded SHA-gate contract
+&nbsp;&nbsp; 💡 [Spec upgraded-SHA-gate](https://github.com/mr-zwets/upgraded-SHA-gate) - Specification for an upgraded SHA-gate contract
 
-&nbsp;&nbsp; ⚙️ [demo upgraded-SHA-gate](https://github.com/mr-zwets/sha-gate-website) - Demo for upgraded SHA-gate contract
+&nbsp;&nbsp; ⚙️ [Demo upgraded-SHA-gate](https://github.com/mr-zwets/sha-gate-website) - Demo for upgraded SHA-gate contract
 
-&nbsp;&nbsp; 🧠 [p2sh assurance contract](https://github.com/mr-zwets/p2shAssuranceContract) - Specification for an improved method for Bitcoin Cash crowdfunding
+&nbsp;&nbsp; 🧠 [P2sh assurance contract](https://github.com/mr-zwets/p2shAssuranceContract) - Specification for an improved method for Bitcoin Cash crowdfunding
 
-&nbsp;&nbsp; ⛩️ [bridge portal](https://github.com/mr-zwets/bridgeportal) - Bridge portal front-end for bridging SBCH NFTs to CashTokens 
+&nbsp;&nbsp; ⛩️ [Bridge portal](https://github.com/mr-zwets/bridgeportal) - Bridge portal front-end for bridging SBCH NFTs to CashTokens
+
+### Bitcoin Cash CHIPs
+
+&nbsp;&nbsp; 📜 [CHIP-2023-08-AuthGuard](https://github.com/mr-zwets/AuthGuard) - AuthGuard standard for managing AuthChains
+
+&nbsp;&nbsp; 🧮 [CHIP-2023-07-Composite-Arithmetic-Opcodes](https://github.com/mr-zwets/Composite-Arithmetic-Opcodes) - A proposal to add composite arithmetic opcodes to BCH
 
 </details>
 
@@ -75,22 +81,25 @@ My main projects are Cashonize and CashScript!
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=js,ts)
+![Languages](https://skillicons.dev/icons?i=ts,js,python)
 
 ### Front-end
 
-![Front-end](https://skillicons.dev/icons?i=vue,react,nextjs,html,css)
+![Front-end](https://skillicons.dev/icons?i=vue,pinia,react,nextjs,html,css)
 
 ### Back-end
 
 ![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres)
 
-### Tools
+### Platforms
 
-![Tools](https://skillicons.dev/icons?i=netlify,git,npm,vscode,vite,androidstudio,powershell,postman)
+![Tools](https://skillicons.dev/icons?i=vite,tauri,electron,androidstudio)
 
-### Have Used
+### DevOps
+![DevOps](https://skillicons.dev/icons?i=git,github,netlify,linux)
 
-![Used](https://skillicons.dev/icons?i=graphql,docker,python,linux,ipfs,electron,pinia,jest)
+### Other Technologies 
+
+![Tools](https://skillicons.dev/icons?i=postman,jest,graphql,ipfs,npm,yarn)
 
 </details>
