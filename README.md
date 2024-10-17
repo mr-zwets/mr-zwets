@@ -89,7 +89,7 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 ### Back-end
 
-![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres)
+![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)
 
 ### Platforms
 
