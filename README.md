@@ -7,7 +7,7 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 ### Main Projects
 
 
-&nbsp;&nbsp; 🌱 [Cashonize.com](https://cashonize.com/) - My cross-platform Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
+&nbsp;&nbsp; 🌱 [Cashonize Wallet](https://about.cashonize.com/) - My cross-platform Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
 
 &nbsp;&nbsp; 💻 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language & toolkit for developing smart contracts on BCH
 
