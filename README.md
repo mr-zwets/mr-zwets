@@ -36,7 +36,7 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 🔐 [AuthUpdate program](https://github.com/mr-zwets/AuthUpdate) - A Javascript program to update your BCMR metadata on-chain
 
-&nbsp;&nbsp; 🔗 [BCHN API Wrapper]([https://github.com/mr-zwets/airdrop-tool](https://github.com/mr-zwets/bchn-api-wrapper)) - a Typescript wrapper for interacting with the Bitcoin Cash Node (BCHN) APIs
+&nbsp;&nbsp; 🔗 [BCHN API Wrapper](https://github.com/mr-zwets/bchn-api-wrapper) - a Typescript wrapper for interacting with the Bitcoin Cash Node (BCHN) APIs
 
 ### Open-source NFT Project
 
