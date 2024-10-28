@@ -102,6 +102,6 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 ### Other Technologies 
 
-![Technologies](https://skillicons.dev/icons?i=postman,jest,graphql,ipfs,npm,yarn)
+![Technologies](https://skillicons.dev/icons?i=postman,jest,vitest,graphql,ipfs,npm,yarn)
 
 </details>
