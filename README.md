@@ -38,6 +38,8 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 🔗 [BCHN API Wrapper](https://github.com/mr-zwets/bchn-api-wrapper) - a Typescript wrapper for interacting with the Bitcoin Cash Node (BCHN) APIs
 
+&nbsp;&nbsp; 🧉 [Cauldron Swap Test](https://github.com/mr-zwets/Cauldron_Swap_Test) - Cauldron Swap Test using the CashScript SDK 
+
 ### Open-source NFT Project
 
 &nbsp;&nbsp; 🥷 [Ninjas.cash](https://github.com/cashninjas/ninjas.cash) - Cash-Ninja website including WalletConnect and minting logic
