@@ -30,13 +30,17 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 📜 [BCMR Generator](https://bcmr-generator.netlify.app/) - Web form to generate BCMR metadata file for tokens
 
+### TypeScript Libraries
+
+&nbsp;&nbsp; 🕸 [Chaingraph-ts](https://github.com/mr-zwets/chaingraph-ts) -  a TypeScript library for working with Chaingraph in a fully type-safe way 
+
+&nbsp;&nbsp; 🔗 [BCHN API Wrapper](https://github.com/mr-zwets/bchn-api-wrapper) - a Typescript wrapper for interacting with the Bitcoin Cash Node (BCHN) APIs
+
 ### BitcoinCash Developer Tools
 
 &nbsp;&nbsp; 🪂 [CashTokens Airdrop Tool](https://github.com/mr-zwets/airdrop-tool) - A Javascript program to airdrop fungible tokens to NFT holders
 
 &nbsp;&nbsp; 🔐 [AuthUpdate program](https://github.com/mr-zwets/AuthUpdate) - A Javascript program to update your BCMR metadata on-chain
-
-&nbsp;&nbsp; 🔗 [BCHN API Wrapper](https://github.com/mr-zwets/bchn-api-wrapper) - a Typescript wrapper for interacting with the Bitcoin Cash Node (BCHN) APIs
 
 &nbsp;&nbsp; 🧉 [Cauldron Swap Test](https://github.com/mr-zwets/Cauldron_Swap_Test) - Cauldron Swap Test using the CashScript SDK 
 
