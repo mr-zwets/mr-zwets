@@ -9,18 +9,14 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 🌱 [Cashonize Wallet](https://about.cashonize.com/) - My cross-platform Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
 
-&nbsp;&nbsp; 💻 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language & toolkit for developing smart contracts on BCH
+&nbsp;&nbsp; 💻 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language and TypeScript SDK for developing smart contracts on BCH
+
+&nbsp;&nbsp; 🧑🏼‍🚀 [Tokenaut.cash](https://tokenaut.cash/) - My showcase website for stats about the CashTokens and DeFi ecosystem on Bitcoin Cash
 
 <details>
 <summary>
   Here's a full list of stuff I made for Bitcoin Cash 💚
 </summary>
-
-### Explore the Ecosystem
-
-&nbsp;&nbsp; 🧑🏼‍🚀 [Tokenaut.cash](https://tokenaut.cash/) - Website showcasing stats about the CashTokens and DeFi ecosystem on Bitcoin Cash
-
-&nbsp;&nbsp; ✅ [BestBchWallets.com](https://www.bestbchwallets.com/) - Website with info about Bitcoin Cash Wallets
 
 ### BitcoinCash Web Tools
 
@@ -42,7 +38,11 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 🔐 [AuthUpdate program](https://github.com/mr-zwets/AuthUpdate) - A Javascript program to update your BCMR metadata on-chain
 
-&nbsp;&nbsp; 🧉 [Cauldron Swap Test](https://github.com/mr-zwets/Cauldron_Swap_Test) - Cauldron Swap Test using the CashScript SDK 
+&nbsp;&nbsp; 🧉 [Cauldron Swap Test](https://github.com/mr-zwets/Cauldron_Swap_Test) - Cauldron Swap Test using the CashScript SDK
+
+### Explore the Ecosystem
+
+&nbsp;&nbsp; ✅ [BestBchWallets.com](https://www.bestbchwallets.com/) - Website with info about Bitcoin Cash Wallets
 
 ### Open-source NFT Project
 
@@ -78,7 +78,7 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 📜 [CHIP-2023-08-AuthGuard](https://github.com/mr-zwets/AuthGuard) - AuthGuard standard for managing AuthChains
 
-&nbsp;&nbsp; 🧮 [CHIP-2023-07-Composite-Arithmetic-Opcodes](https://github.com/mr-zwets/Composite-Arithmetic-Opcodes) - A proposal to add composite arithmetic opcodes to BCH
+&nbsp;&nbsp; 🧮 [CHIP-2023-07-Composite-Arithmetic-Opcodes](https://github.com/mr-zwets/Composite-Arithmetic-Opcodes) - A -now withdrawn- proposal to add composite arithmetic opcodes to BCH
 
 </details>
 
@@ -104,7 +104,7 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 ![Platforms](https://skillicons.dev/icons?i=vite,tauri,electron,androidstudio)
 
 ### DevOps
-![DevOps](https://skillicons.dev/icons?i=git,github,netlify,linux)
+![DevOps](https://skillicons.dev/icons?i=git,github,netlify,linux,nginx)
 
 ### Other Technologies 
 
