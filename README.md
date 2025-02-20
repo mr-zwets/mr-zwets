@@ -22,9 +22,11 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 🎪 [CashScript Playground](https://playground.cashscript.org/) - Online Playground for CashScript contracts
 
-&nbsp;&nbsp; 🔎 [TokenExplorer.cash](https://tokenexplorer.cash/) - Website to find details about a specific CashToken by TokenId
+&nbsp;&nbsp; 🗺️ [TokenExplorer.cash](https://tokenexplorer.cash/) - Website to find details about a specific CashToken by TokenId
 
 &nbsp;&nbsp; 📜 [BCMR Generator](https://bcmr-generator.netlify.app/) - Web form to generate BCMR metadata file for tokens
+
+&nbsp;&nbsp; 🔎 [Opreturn-Scanner](https://opreturn-scanner.netlify.app/) - Website to scan for sprecific on-chain markers
 
 ### TypeScript Libraries
 
