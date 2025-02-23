@@ -60,6 +60,12 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 💀 [Reapers.cash](https://reapers.cash/) - Website for the Reapers NFT Project
 
+### Small BCH Apps
+
+&nbsp;&nbsp; 💎 [BCH Hodl Dapp](https://github.com/mr-zwets/bch-hodl-dapp) - Web application for time locking Bitcoin Cash in a smart contract
+
+&nbsp;&nbsp; ⛩️ [Bridge portal](https://github.com/mr-zwets/bridgeportal) - Bridge portal front-end for bridging SBCH NFTs to CashTokens
+
 ### Tutorials
 
 &nbsp;&nbsp; 🎓 [Tutorial BCH App](https://github.com/mr-zwets/tutorial-bch-app) - Tutorial Bitcoin Cash web app from my BCH coding tutorial series on Youtube.
@@ -73,8 +79,6 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 &nbsp;&nbsp; ⚙️ [Demo upgraded-SHA-gate](https://github.com/mr-zwets/sha-gate-website) - Demo for upgraded SHA-gate contract
 
 &nbsp;&nbsp; 🧠 [P2sh assurance contract](https://github.com/mr-zwets/p2shAssuranceContract) - Specification for an improved method for Bitcoin Cash crowdfunding
-
-&nbsp;&nbsp; ⛩️ [Bridge portal](https://github.com/mr-zwets/bridgeportal) - Bridge portal front-end for bridging SBCH NFTs to CashTokens
 
 ### Bitcoin Cash CHIPs
 
