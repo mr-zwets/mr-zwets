@@ -11,6 +11,8 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 &nbsp;&nbsp; 💻 [CashScript](https://github.com/CashScript/cashscript) - A High-level programming language and TypeScript SDK for developing smart contracts on BCH
 
+&nbsp;&nbsp; 🎪 [CashScript Playground](https://playground.cashscript.org/) - Online Playground for experimentation with CashScript
+
 &nbsp;&nbsp; 🧑🏼‍🚀 [Tokenaut.cash](https://tokenaut.cash/) - My showcase website for stats about the CashTokens and DeFi ecosystem on Bitcoin Cash
 
 <details>
@@ -19,8 +21,6 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 </summary>
 
 ### BitcoinCash Web Tools
-
-&nbsp;&nbsp; 🎪 [CashScript Playground](https://playground.cashscript.org/) - Online Playground for CashScript contracts
 
 &nbsp;&nbsp; 🗺️ [TokenExplorer.cash](https://tokenexplorer.cash/) - Website to find details about a specific CashToken by TokenId
 
@@ -63,6 +63,8 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 ### Small BCH Apps
 
 &nbsp;&nbsp; 💎 [BCH Hodl Dapp](https://github.com/mr-zwets/bch-hodl-dapp) - Web application for time locking Bitcoin Cash in a smart contract
+
+&nbsp;&nbsp; 🔄 [Refresh Timer](https://refreshtimer.netlify.app/) - A BCH smart contract prize game
 
 &nbsp;&nbsp; ⛩️ [Bridge portal](https://github.com/mr-zwets/bridgeportal) - Bridge portal front-end for bridging SBCH NFTs to CashTokens
 
