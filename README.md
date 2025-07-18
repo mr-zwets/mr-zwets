@@ -2,10 +2,11 @@
 
 Hi 👋 I'm Mathieu (AKA Mr-Zwets), a passionate Bitcoin Cash developer. <br/>
 Been in crypto since summer of '17, working on it full time since '22. <br/>
-
+Spearheaded the development of the CashTokens ecosystem and advanced smart contract tooling on BCH. <br/>
 
 ### Main Projects
 
+&nbsp;&nbsp; 🆕 [ParityUSD](https://parityusd.com) - A decentralized stablecoin on Bitcoin Cash (in active develoment)
 
 &nbsp;&nbsp; 🌱 [Cashonize Wallet](https://about.cashonize.com/) - My cross-platform Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
 
@@ -97,11 +98,11 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=ts,js,python)
+![Languages](https://skillicons.dev/icons?i=ts)
 
 ### Front-end
 
-![Front-end](https://skillicons.dev/icons?i=vue,pinia,react,nextjs,html,css)
+![Front-end](https://skillicons.dev/icons?i=vue,pinia,nuxt,react,nextjs,html,css)
 
 ### Back-end
 
@@ -111,11 +112,11 @@ Been in crypto since summer of '17, working on it full time since '22. <br/>
 
 ![Platforms](https://skillicons.dev/icons?i=vite,electron,androidstudio,tauri)
 
-### DevOps
+### DevOps & Infra
 ![DevOps](https://skillicons.dev/icons?i=git,github,netlify,vercel,linux,nginx)
 
 ### Other Technologies 
 
-![Technologies](https://skillicons.dev/icons?i=vitest,graphql,postman,jest,ipfs,npm,yarn)
+![Technologies](https://skillicons.dev/icons?i=vitest,graphql,supabase,ipfs,postman,jest)
 
 </details>
