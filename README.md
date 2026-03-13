@@ -14,6 +14,8 @@ Spearheaded the development of the CashTokens ecosystem and advanced smart contr
 
 &nbsp;&nbsp; 🎪 [CashScript Playground](https://playground.cashscript.org/) - Online Playground for experimentation with CashScript
 
+&nbsp;&nbsp; 🗺️ [TokenExplorer.cash](https://tokenexplorer.cash/) - BCMR token explorer for CashTokens on Bitcoin Cash
+
 &nbsp;&nbsp; 🧑🏼‍🚀 [Tokenaut.cash](https://tokenaut.cash/) - My showcase website for stats about the CashTokens and DeFi ecosystem on Bitcoin Cash
 
 <details>
@@ -22,8 +24,6 @@ Spearheaded the development of the CashTokens ecosystem and advanced smart contr
 </summary>
 
 ### BitcoinCash Web Tools
-
-&nbsp;&nbsp; 🗺️ [TokenExplorer.cash](https://tokenexplorer.cash/) - Website to find details about a specific CashToken by TokenId
 
 &nbsp;&nbsp; 📜 [BCMR Generator](https://bcmr-generator.netlify.app/) - Web form to generate BCMR metadata file for tokens
 
@@ -37,9 +37,9 @@ Spearheaded the development of the CashTokens ecosystem and advanced smart contr
 
 ### BitcoinCash Developer Tools
 
-&nbsp;&nbsp; 🪂 [CashTokens Airdrop Tool](https://github.com/mr-zwets/airdrop-tool) - A Javascript program to airdrop fungible tokens to NFT holders
+&nbsp;&nbsp; 🪂 [CashTokens Airdrop Tool](https://github.com/mr-zwets/airdrop-tool) - A Typescript program to airdrop fungible tokens to NFT holders
 
-&nbsp;&nbsp; 🔐 [AuthUpdate program](https://github.com/mr-zwets/AuthUpdate) - A Javascript program to update your BCMR metadata on-chain
+&nbsp;&nbsp; 🔐 [AuthUpdate program](https://github.com/mr-zwets/AuthUpdate) - A Typescript program to update your BCMR metadata on-chain
 
 &nbsp;&nbsp; 🧉 [Cauldron Swap Test](https://github.com/mr-zwets/Cauldron_Swap_Test) - Cauldron Swap Test using the CashScript SDK
 
