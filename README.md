@@ -16,6 +16,8 @@ Spearheaded the development of the CashTokens ecosystem and advanced smart contr
 
 &nbsp;&nbsp; 🗺️ [TokenExplorer.cash](https://tokenexplorer.cash/) - BCMR token explorer for CashTokens on Bitcoin Cash
 
+&nbsp;&nbsp; 🧉 [Cauldron Swap SDK](https://github.com/mr-zwets/Cauldron-Swap-SDK) - unofficial Cauldron Swap SDK powered by CashScript
+
 &nbsp;&nbsp; 🧑🏼‍🚀 [Tokenaut.cash](https://tokenaut.cash/) - My showcase website for stats about the CashTokens and DeFi ecosystem on Bitcoin Cash
 
 <details>
@@ -40,8 +42,6 @@ Spearheaded the development of the CashTokens ecosystem and advanced smart contr
 &nbsp;&nbsp; 🪂 [CashTokens Airdrop Tool](https://github.com/mr-zwets/airdrop-tool) - A Typescript program to airdrop fungible tokens to NFT holders
 
 &nbsp;&nbsp; 🔐 [AuthUpdate program](https://github.com/mr-zwets/AuthUpdate) - A Typescript program to update your BCMR metadata on-chain
-
-&nbsp;&nbsp; 🧉 [Cauldron Swap Test](https://github.com/mr-zwets/Cauldron_Swap_Test) - Cauldron Swap Test using the CashScript SDK
 
 ### Explore the Ecosystem
 
@@ -113,10 +113,10 @@ Spearheaded the development of the CashTokens ecosystem and advanced smart contr
 ![Platforms](https://skillicons.dev/icons?i=vite,electron,androidstudio,tauri)
 
 ### DevOps & Infra
-![DevOps](https://skillicons.dev/icons?i=git,github,netlify,vercel,linux,nginx)
+![DevOps](https://skillicons.dev/icons?i=git,github,vercel,netlify,linux,nginx)
 
 ### Other Technologies 
 
-![Technologies](https://skillicons.dev/icons?i=vitest,graphql,supabase,ipfs,postman,jest)
+![Technologies](https://skillicons.dev/icons?i=vitest,graphql,supabase,ipfs,postman)
 
 </details>
