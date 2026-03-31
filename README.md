@@ -6,7 +6,7 @@ Spearheaded the development of the CashTokens ecosystem and advanced smart contr
 
 ### Main Projects
 
-&nbsp;&nbsp; 🆕 [ParityUSD](https://parityusd.com) - A decentralized stablecoin on Bitcoin Cash (in active develoment)
+&nbsp;&nbsp; 🟣 [ParyonUSD](https://paryonusd.com) - A decentralized stablecoin on Bitcoin Cash (in active develoment)
 
 &nbsp;&nbsp; 🌱 [Cashonize Wallet](https://about.cashonize.com/) - My cross-platform Bitcoin Cash Wallet with support for CashTokens, WalletConnect and CashConnect
 
